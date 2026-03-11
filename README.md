@@ -2,7 +2,7 @@
 <html lang = "en>
 <head>
 <meta charset="UTF-8">
-<title>My Basic HTMLS Webpage</title>
+
 </head>
 <body>
 <marquee behavior="scroll" direction"left">
